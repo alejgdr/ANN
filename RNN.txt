@@ -1,0 +1,1 @@
+RNNs son buenos para prediccion de series de tiempo
