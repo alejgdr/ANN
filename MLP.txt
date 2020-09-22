@@ -1,0 +1,2 @@
+Ammm.... muchos perceptrones densamente conectados, con una capa de entrada
+una de salida y capas escondidas
