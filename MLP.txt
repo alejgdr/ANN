@@ -1,2 +1,2 @@
 Ammm.... muchos perceptrones densamente conectados, con una capa de entrada
-una de salida y capas escondidas
+una de salida y capas escondidas. Sin embargo hay mas tipos de ANN
